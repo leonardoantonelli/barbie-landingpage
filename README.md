@@ -1,3 +1,6 @@
+![Uploading localhost_3000_(Nest Hub Max) (1).png…]()
+
+
 🌟🎀 Benvenuti nella Magia di Barbie! 🎀🌟
 
 🎉💖 Ciao a tutti gli appassionati di Barbie! È con immensa gioia che vi presento la mia nuova landing page dedicata a Barbie in occasione dell'uscita al cinema di Barbie: un mondo di avventure, amicizia e stile senza tempo! 💖🎉
