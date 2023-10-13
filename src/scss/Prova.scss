@@ -1,0 +1,25 @@
+.slide-container{
+    width: 100%;
+overflow: hidden;}
+
+.image-slider{
+   position: absolute;
+   left: 0;
+  
+}
+
+.slides-div{
+
+
+}
+
+#slider-span1:target~ .image-slider #img1,
+#slider-span1:target~ .image-slider #button-1{
+    background-color: transparent;
+}
+
+#slider-span1:target~ .image-slider {left: 70%;}
+#slider-span2:target~ .image-slider {left: 50%;}
+#slider-span3:target~ .image-slider {left: 25%;}
+//#slider-span4:target~ .image-slider {left: 70%;}
+#slider-span5:target~ .image-slider {left: -25%;}

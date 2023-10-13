@@ -1,0 +1,27 @@
+.imgcard{
+  width: 200px;
+}
+//my card
+
+.imghover{
+  transition: all .2s ease-in-out;}
+
+.imghover:hover{
+transform: scale(1.2);
+}
+//my interview
+
+.mypositionleft{
+  position: absolute;
+  width: 100px;
+  right: 0px;
+  padding: 0px;
+  
+}
+.mypositionright{
+     position: absolute;
+  width: 100px;
+  left: 0px;
+  padding: 0px;
+  z-index: -100;
+}
