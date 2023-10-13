@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/barbie-landingpage/static/css/main.06e21704.css",
+    "main.js": "/barbie-landingpage/static/js/main.479b58ce.js",
+    "static/js/787.6c138547.chunk.js": "/barbie-landingpage/static/js/787.6c138547.chunk.js",
+    "static/media/gif": "/barbie-landingpage/static/media/fc63bd42b7c94d3707601a795ff29c29.7712e52bf3504de13871.gif",
+    "static/media/12.png": "/barbie-landingpage/static/media/12.7115118a6fff026b4914.png",
+    "static/media/barbie__2023___3__by_kahlanamnelle_dfwmw4v-375w-2x.png": "/barbie-landingpage/static/media/barbie__2023___3__by_kahlanamnelle_dfwmw4v-375w-2x.7e783af01f6f1682dde1.png",
+    "static/media/Asset 3.jpg": "/barbie-landingpage/static/media/Asset 3.a827d6faa1965ddf47a1.jpg",
+    "static/media/png": "/barbie-landingpage/static/media/1f882723957d26fee36d5a1f96db593d.b4267d3858b969c17f67.png",
+    "static/media/cast0.jpg": "/barbie-landingpage/static/media/cast0.57c5dfc60a2f27021298.jpg",
+    "static/media/cast2.jpg": "/barbie-landingpage/static/media/cast2.862f6a286ebede535562.jpg",
+    "static/media/jpg": "/barbie-landingpage/static/media/ac9160344f4cb6d8f824c9876f22d53e.2ee48e126ffaa3ee533f.jpg",
+    "static/media/cast4.jpg": "/barbie-landingpage/static/media/cast4.0de45af107b2a0919976.jpg",
+    "static/media/cast3.jpg": "/barbie-landingpage/static/media/cast3.819df7fba8de2d1d3b4d.jpg",
+    "static/media/1.png": "/barbie-landingpage/static/media/1.76585d9319025cdd7cf0.png",
+    "static/media/cast1.jpg": "/barbie-landingpage/static/media/cast1.6c7c74db201446d6302b.jpg",
+    "static/media/back.jpg": "/barbie-landingpage/static/media/back.a05b29998df90a394055.jpg",
+    "index.html": "/barbie-landingpage/index.html",
+    "main.06e21704.css.map": "/barbie-landingpage/static/css/main.06e21704.css.map",
+    "main.479b58ce.js.map": "/barbie-landingpage/static/js/main.479b58ce.js.map",
+    "787.6c138547.chunk.js.map": "/barbie-landingpage/static/js/787.6c138547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e21704.css",
+    "static/js/main.479b58ce.js"
+  ]
+}
