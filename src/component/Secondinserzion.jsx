@@ -15,7 +15,7 @@ const Myinserzione = () => {
         <img src={dance} alt="" className="picdance d-lg-block " />
         <Col> </Col>
         <Col xs={12} lg={8}>
-          <h5 className=" py-2 myboldSubTitle myTextPink"> SOTTOTITOLO</h5>
+          <h5 className=" py-2 myboldSubTitle myTextPink"> Explore the pink world!</h5>
           <p className=" d-flex justify-content-center align-content-center myTextWhite ">
             Based on the Barbie fashion dolls by Mattel, it is the first
             live-action Barbie film after numerous computer animated direct to
