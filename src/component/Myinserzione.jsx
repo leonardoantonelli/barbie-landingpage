@@ -15,10 +15,7 @@ const Myinserzione = () => {
           She is everything. <span></span>He's just Ken.
         </h5>
         <p className=" d-flex justify-content-center align-content-center myTextWhite ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,
-          fugit dolores. Quas beatae nihil voluptates tempora quaerat. Aperiam
-          rerum dolores veniam est quo commodi, soluta odio consequatur natus!
-          Distinctio, unde!
+            "Barbie," director and co-writer Greta Gerwig’s summer splash, is a dazzling achievement, both technically and in tone. It’s a visual feast that succeeds as both a gleeful escape and a battle cry. So crammed with impeccable attention to detail is "Barbie” that you couldn’t possibly catch it all in a single sitting; you’d have to devote an entire viewing just to the accessories.
         </p>
         <div className="d-flex mb-4">
           <button className=" mybutton mx-2  shadow"> Watch the movie </button>
