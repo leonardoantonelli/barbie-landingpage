@@ -1,4 +1,5 @@
 
+![Uploading localhost_3000_barbie-landingpage(Nest Hub Max).png…]()
 
 🌟🎀 Benvenuti nella Magia di Barbie! 🎀🌟
 
