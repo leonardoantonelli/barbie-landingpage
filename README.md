@@ -1,5 +1,5 @@
 
-![Uploading localhost_3000_barbie-landingpage(Nest Hub Max).png…]()
+![localhost_3000_barbie-landingpage(Nest Hub Max)](https://github.com/leonardoantonelli/barbie-landingpage/assets/116543466/be820b62-0d89-4c7b-9f51-c550615d2b90)
 
 🌟🎀 Benvenuti nella Magia di Barbie! 🎀🌟
 
